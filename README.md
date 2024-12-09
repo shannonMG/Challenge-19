@@ -34,7 +34,8 @@ This project includes the following tests:
 ## Walkthrough Video
 
 A video walkthrough demonstrating the component and E2E tests is available here
-View Walkthrough Video 
+[Link to Walkthrough Video](https://drive.google.com/file/d/1kSiMyrsanwXiWF5fukBiMZ9qSgrEWuCI/view?usp=sharing)
+
 
 
 ## Technologies Used
